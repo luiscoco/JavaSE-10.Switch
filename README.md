@@ -1,4 +1,4 @@
-# JavaSE-10.Switch
+# JavaSE-Switch
 
 In Java, the switch statement is used to select one of many code blocks to be executed. 
 
