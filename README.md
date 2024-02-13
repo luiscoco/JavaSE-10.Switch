@@ -1,5 +1,7 @@
 # JavaSE-Switch
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, the switch statement is used to select one of many code blocks to be executed. 
 
 It's often used as an alternative to a series of if-else statements when you have multiple possible conditions to check.
